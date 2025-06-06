@@ -1,6 +1,8 @@
 These are seminar materials for the Geometric Methods in Machine Learning course (Spring 2024) by Prof. A.V. Bernstein at Sk.
 Materials were prepared by [Oleg Kachan](https://github.com/oleg-kachan).
 
+[Mikhail Kuznetsov](https://github.com/mmkuznecov) contributed some awesome [**course notes**](https://github.com/bekemax/GMML2024/blob/main/notes/notes.pdf) one can use to prepare for the exam.
+
 | Seminar notebook | Theme(s) |
 |---|---|
 | [Sem1](https://github.com/bekemax/GMML2024/tree/main/seminar1) | [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis) |
